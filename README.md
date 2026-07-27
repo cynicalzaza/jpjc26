@@ -39,7 +39,7 @@ JPJC H2 Computing 2026
     <tr><td>25S21</td><td>Wong Jia Xi</td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/ADAMT0819974J/H2COMPUTING">Adam Nazraoul Bin Azmi</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/carter166/H2Computing/tree/main">Carter Lee Harbick</a></td></tr>
-    <tr><td>25S22</td><td><a href="https://github.com/cynicalzaza">Edgar Ow Yeong Yuan Hao</a></td></tr>
+    <tr><td>25S22</td><td><a href="https://github.com/cynicalzaza/Edgar-H2-Computing">Edgar Ow Yeong Yuan Hao</a></td></tr>
     <tr><td>25S22</td><td>Han Feng</td></tr>
     <tr><td>25S22</td><td>Han Jeong Seu, Caleb</td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/jingxuan4/H2_computing">Hou Jingxuan</a>/td></tr>
