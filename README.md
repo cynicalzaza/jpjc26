@@ -9,8 +9,8 @@ JPJC H2 Computing 2026
     </tr>
   </thead>
   <tbody>
-    <tr><td>25S11</td><td>Chan Hao Yang</td></tr>
-    <tr><td>25S11</td><td>Chia He Jun</td></tr>
+    <tr><td>25S11</td><td><a href="https://github.com/ChiaHeJun/H2Computing">Chan Hao Yang</a></td></tr>
+    <tr><td>25S11</td><td><a href="https://github.com/HaoYangChan/H2-Computing">Chia He Jun</a></td></tr>
     <tr><td>25S11</td><td>Hein Thurein Kyaw</td></tr>
     <tr><td>25S11</td><td><a href="https://github.com/meltierd/H2-computing">Melissa Nataniela Darmali</a></td></tr>
     <tr><td>25S11</td><td><a href = "https://github.com/lql-svg/H2-computing">Li Qiaoling</a></td></tr>
@@ -37,7 +37,7 @@ JPJC H2 Computing 2026
     <tr><td>25S21</td><td><a href="https://github.com/coderingfailuring/H2-FILES/tree/main">Tan Yan Kai Brayden</a></td></tr>
     <tr><td>25S21</td><td>Tham Hoa Yu (Tan Haoyu)</td></tr>
     <tr><td>25S21</td><td>Wong Jia Xi</td></tr>
-    <tr><td>25S22</td><td>Adam Nazraoul Bin Azmi</td></tr>
+    <tr><td>25S22</td><td><a href="https://github.com/ADAMT0819974J/H2COMPUTING">Adam Nazraoul Bin Azmi</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/carter166/H2Computing/tree/main">Carter Lee Harbick</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/cynicalzaza">Edgar Ow Yeong Yuan Hao</a></td></tr>
     <tr><td>25S22</td><td>Han Feng</td></tr>
@@ -47,6 +47,6 @@ JPJC H2 Computing 2026
     <tr><td>25S22</td><td>John Silas</td></tr>
     <tr><td>25S22</td><td>Kang Zhen Yu, Josh</td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/navienvivekanandan-glitch/Navien">Navien Vivekanandan</a></td></tr>
-    <tr><td>25S22</td><td>Timothy Hui Jun Xiang</td></tr>
+    <tr><td>25S22</td><td><a href="https://github.com/timothyhref/H2COMPUTING">Timothy Hui Jun Xiang</a></td></tr>
   </tbody>
 </table>
